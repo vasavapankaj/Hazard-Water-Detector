@@ -167,7 +167,7 @@ Hazard-Water-Detector/
 ├── ESP32/
 │   └── water_detector.ino
 │
-├── Website/
+├── Hazard water detector/
 │   ├── index.html
 │   ├── insert_data.php
 │   ├── database.sql
