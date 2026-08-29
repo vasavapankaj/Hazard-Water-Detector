@@ -213,15 +213,25 @@ Import the SQL file into MySQL and configure the PHP database connection.
 
 ## 📷 Project Demo
 
-Add your project images/videos here.
+**Project Images :**
 
-```text
-[Project Image]
+<p>
+     <img width="1280" height="591" src="https://github.com/user-attachments/assets/e73232c8-b2a3-441e-8dc0-f6035c395515" />
+     <img width="1280" height="706" src="https://github.com/user-attachments/assets/861386fd-275f-4e5b-83c7-562de6fef5b0" />
 
-[Working Demo]
+</p>
 
-[Website Dashboard]
-```
+**Website Dashboard :**
+
+<p>
+     <img width="1891" height="862" alt="homepage" src="https://github.com/user-attachments/assets/c69500c1-cb0e-43c9-a7a0-33df771f79a9" />
+     <img width="1866" height="870" alt="graph" src="https://github.com/user-attachments/assets/9a81ed84-d724-4e1f-a8f1-77e550bfd741" />
+</p>
+
+**Working Demo**
+<p>
+https://github.com/user-attachments/assets/f1f2ad87-ebc7-4784-9003-2fa2d6fa3692
+</p>
 
 ## 🔮 Future Improvements
 
